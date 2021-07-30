@@ -1,4 +1,5 @@
 # BloggingPlatform
+As Part Of Software Engineering Project our Team Developed Blogging Website where users can use it as Story Book as Well as Blogging Website
 ![WhatsApp Image 2021-05-10 at 16 04 43](https://user-images.githubusercontent.com/46644862/127667644-e6496ecc-cf50-404f-a0e7-fafa13511fe7.jpeg)
 ![WhatsApp Image 2021-05-10 at 16 04 44](https://user-images.githubusercontent.com/46644862/127667667-ceb060a9-419f-4c41-84a2-2786e05a13e8.jpeg)
 ![Dashboard](https://user-images.githubusercontent.com/46644862/127669764-5ea40e78-c292-4a31-9007-7c730ac521fa.jpeg)
